@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "gpt-utils"
+  site-url: "https://andryramorasata.github.io/gpt-utils"
+  description: "Utilities for working with chatGPT"
+  repo-branch: main
+  repo-url: "https://github.com/andryramorasata/gpt-utils"
